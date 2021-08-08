@@ -2,7 +2,10 @@
 
 ## https://tokyotech-sasaharalab-crest.github.io/Research-Internship/
 
-Research Intership prgram at Sasahara Lab at Tokyo Tech is an initative to develop and oriented young students interest towards computational social sience research.   
+Research Intership prgram at Sasahara Lab at Tokyo Tech is an initative to develop and oriented young students interest towards computational social sience research.  
+ 
+## See our lab at https://www.colorlessgreen.info/home
+
 
 
 
