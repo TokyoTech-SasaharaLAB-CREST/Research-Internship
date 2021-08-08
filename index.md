@@ -7,7 +7,9 @@ layout: homepage
 Sasahara Lab's Research Intership program is a 15 weeks intense program with mix of hands on expereince to computational social science methods and conducting real worl research collaborating with diverse research scientists. 
 
 ## Core Team
-![Prof Sasahara](https://user-images.githubusercontent.com/12571844/128625138-deec0fad-9427-461f-9994-37faeb59f1c6.jpg)
+<br>
+![Prof Sasahara](https://userimages.githubusercontent.com/12571844/128625138-deec0fad-9427-461f-9994-37faeb59f1c6.jpg) 
+</br>
 Professor SASAHARA Kazutoshi 
 
 
