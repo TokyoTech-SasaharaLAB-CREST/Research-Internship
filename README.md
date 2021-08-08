@@ -10,7 +10,7 @@ Research Intership prgram at Sasahara Lab at Tokyo Tech is an initative to devel
 
 
 =================================================================================
-# This page is build using the Minimal Light Theme
+# Internship program web page is built using the Minimal Light Theme - Feel free to fork and customize to your page 
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 [![gem](https://img.shields.io/gem/v/minimal-light?style=flat-square&logo=rubygems&color=E9573F)](https://rubygems.org/gems/minimal-light)
