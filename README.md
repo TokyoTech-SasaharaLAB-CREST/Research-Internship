@@ -2,13 +2,15 @@
 
 ## https://tokyotech-sasaharalab-crest.github.io/Research-Internship/
 
+Research Intership prgram at Sasahara Lab at Tokyo Tech is an initative to develop and oriented young students interest towards computational social sience research.   
 
 
 
 
 
 
-# The Minimal Light Theme
+=================================================================================
+# This page is build using the Minimal Light Theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 [![gem](https://img.shields.io/gem/v/minimal-light?style=flat-square&logo=rubygems&color=E9573F)](https://rubygems.org/gems/minimal-light)
