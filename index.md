@@ -2,11 +2,16 @@
 layout: homepage
 ---
 
-## About Me
+## About the Program 
 
-I am a Ph.D. student at ...
+Sasahara Lab's Research Intership program is a 15 weeks intense program with mix of hands on expereince to computational social science methods and conducting real worl research collaborating with diverse research scientists. 
 
-## Research Interests
+## Core Team
+Professor SASAHARA Kazutoshi ![Prof Sasahara](https://user-images.githubusercontent.com/12571844/128625138-deec0fad-9427-461f-9994-37faeb59f1c6.jpg)
+
+
+
+## Research Interns 
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
