@@ -20,7 +20,7 @@ Sasahara Lab's Research Intership program is a 12 weeks intense program with mix
 Dr. Mark Whiting - Postdoc, University of Pennsylvania, USA 
 
 ## Selected Research Interns 
-<to be finalize>
+*<to be finalize>
 
 ## Internship Timeline 
 Start - September 14th to  December 7th, 2021
