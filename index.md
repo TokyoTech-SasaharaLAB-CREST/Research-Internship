@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About the Program 
+## Sasahara Lab Research Intership Program 
 
 Sasahara Lab's Research Intership program is a 15 weeks intense program with mix of hands on expereince to computational social science methods and conducting real worl research collaborating with diverse research scientists. 
 
@@ -13,49 +13,46 @@ Professor Yasuhiro Hashimoto, University of Aizu, Japan
 Professor Tasuku Igarashi, Nagoya University, Japan
 Dr. Dilrukshi Gamage - Program lead, Postdoc at Sasahara Lab, Tokyo Tech, Japan**
 
+## Collaborators 
+Dr. Mark Whiting - Postdoc, University of Pennsylvania, USA 
+
+## Internship Timeline 
+Start - September 14th to  December 7th, 2021
+
+## Program 
+
+**Tentatative Program** [Link](https://docs.google.com/document/d/1G5ydiu-lmedFnp6Ls6QAlPW_jK3j5cMbO_hFtVrsDDk/edit?usp=sharing)
+
+
+## Outcome 
+Certificate  
+Recommendation letter 
+Full paper submission to a key Social Comping conference - such as 
+- IC2S2 
+- NetSci
+- WWW
+- ICWSM
+
+## Frequently asked questions 
+
+*When can  I get my certificate and recommendation letter?*
+You will get it a week after we conduct the final session - probably 14th December 2021
+
+*Is it must take part in every meeting?*
+Although it is not a must for invited talks, we expect your presence at the team presentations and individual discussion dates
+
+*How do you monitor progress?*
+Although you will be working as a team of 4-5 members, your work will be individually and collectively assessed - we will use a survey where your team members provide feedback on your work. At the same time, we will have individual interviews/ meetings during the team meetings towards the end of the program.
+
+*What if my team member quit or do not respond in the middle?*
+We expect any individual to continue until the end of the program as we made a clear timeline and expectations. However, if there are unprecedented circumstances, we will consider case by case and provide the necessary support to the remaining team members. 
+
+*What if my teams’ paper does not get accepted to a conference?*
+It is totally OK to get the paper rejected, we will optimize based on the feedback of the reviewer and decide the next venue or resubmit to same.
+
+*Can I change my team?* 
+We invest a considerable amount of time to decide which team members should work together based on the skills and distribution, therefore we will avoid any individual preferences. We expect you to understand that our decision is final.
 
 
 
-## Research Interns 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
-
-## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
