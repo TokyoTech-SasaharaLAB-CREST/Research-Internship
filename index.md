@@ -8,9 +8,11 @@ Sasahara Lab's Research Intership program is a 15 weeks intense program with mix
 
 ## Core Team
 
-![image (2)](https://user-images.githubusercontent.com/12571844/128668214-7aee8c98-3ccd-40c8-9b05-e2e979e175a0.png) | ![image (3)](https://user-images.githubusercontent.com/12571844/128668664-fdef9e47-e96b-4bfb-a5d9-3b0f826c6598.png)
+**Professor Kazutoshi Sasahara - Principle Investigator Sasahara Lab, Tokyo Tech, Japan
+Professor Yasuhiro Hashimoto, University of Aizu, Japan
+Professor Tasuku Igarashi, Nagoya University, Japan
+Dr. Dilrukshi Gamage - Program lead, Postdoc at Sasahara Lab, Tokyo Tech, Japan**
 
-Professor SASAHARA Kazutoshi 
 
 
 
