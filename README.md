@@ -2,7 +2,12 @@
 
 ## https://tokyotech-sasaharalab-crest.github.io/Research-Internship/
 
-Research Intership prgram at Sasahara Lab at Tokyo Tech is an initative to develop and oriented young students interest towards computational social science research.  
+With the proliferation of social media usage and digital devices, we are witnessing an explosion of data that creates novel opportunities for drawing insights and mass collaboration. Computational Social Science as a field cater to current research demands by bridging interdisciplinary groups of researchers studying socio-semantic dynamics in various communities. 
+
+Sasahara Lab at Tokyo Institute of Technology provides a unique opportunity for the young student researchers to be equipped with research knowledge at the intersection of social science and data science— and incubate cutting-edge research across disciplinary boundaries.
+
+Sasahara Lab aims to provide high-quality training in computational social science to aspiring researchers around the world. Selected participants will serve as Research Interns where they will be assigned to a team, work to solve real-world problems in collaboration with expert researchers. In this internship, young students will be able to understand research design, formulate research questions by identifying the current gap and articulate the research process.
+
  
 ## See our lab at https://www.colorlessgreen.info/home
 
