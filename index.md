@@ -61,6 +61,10 @@ It is totally OK to get the paper rejected, we will optimize based on the feedba
 *Can I change my team?* 
 We invest a considerable amount of time to decide which team members should work together based on the skills and distribution, therefore we will avoid any individual preferences. We expect you to understand that our decision is final.
 
+*What should be my time commitment?*
+Since this will be a collaborative group, your commitment may vary based on your ability to finish certain tasks - read a paper, summarize, write a script to obtain data from a source, clean the data and conduct an analysis etc. Roughly this should not be more than ~1 to 2 hrs per day. However, please note that it all depend on the project/ research questions you will formulate in the group. We will help to scope the project where you will be able to achieve within the timeline. 
+
+
 
 
 
