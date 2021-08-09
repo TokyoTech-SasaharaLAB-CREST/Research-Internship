@@ -28,8 +28,10 @@ Start - September 14th to  December 7th, 2021
 
 
 ## Outcome 
-Certificate  
+Certificate by the Lab
+<br>
 Recommendation letter 
+<br>
 Full paper submission to a key Social Comping conference - such as 
 - IC2S2 
 - NetSci
