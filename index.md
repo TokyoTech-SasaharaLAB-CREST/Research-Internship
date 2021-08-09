@@ -8,8 +8,7 @@ Sasahara Lab's Research Intership program is a 15 weeks intense program with mix
 
 ## Core Team
 
-![Profsasahararoundimage](https://user-images.githubusercontent.com/12571844/128667927-1be008b5-ae1d-4bc0-98fb-bd1eff2beb71.png)
-
+![image (2)](https://user-images.githubusercontent.com/12571844/128668214-7aee8c98-3ccd-40c8-9b05-e2e979e175a0.png)
 
 Professor SASAHARA Kazutoshi 
 
