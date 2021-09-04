@@ -20,7 +20,25 @@ Sasahara Lab's Research Intership program is a 12 weeks intense program with mix
 Dr. Mark Whiting - Postdoc, University of Pennsylvania, USA 
 
 ## Selected Research Interns 
-*to be finalize
+Shree Hari Boyalla, Eurecom, France
+Naman Ahuja, International Institute of Information Technology (IIIT), Hyderabad, India
+Neha Motlani, International Institute of Information Technology(IIIT), Hyderabad, India
+Rashmika madushan, Sri Lanka Institute of Information Technology (SLIIT), Sri Lanka
+Aisha Elbadrawy, Nile University, Eygypt
+Sourav Karmakar,National Institute of Technology (NIT), Durgapur, India
+Anshita Khandelwal, International Institute of Information Technology (IIIT), Hyderabad, India, India
+Haseeb Ahmed, Lahore University of Management Sciences (LUMS), Pakistan
+Piraveen Sivakumar, University of Moratuwa, Sri Lanka
+Akanksha Singh, Indira Gandhi Delhi Technical University for Women, India
+Saad Imran Rana, Lahore University of Management Sciences (LUMS), Pakistan
+Soyabul Islam, Khulna University of Engineering & Technology, Bangladesh
+Mukund Choudhary, International Institute of Information Technology (IIIT), Hyderabad, India
+Amogh Desai, Dwarkadas J. Sanghvi College of Engineering, India
+Dinithi Sandarekha, University of Moratuwa, Sri Lanka
+Nuwan Abeynayake, University of Moratuwa, Sri Lanka
+Aman Bahuguna, Chandigarh University, India
+Homayoon Khadivi, Freelanace, Iran
+Pallavi Thukral, G.B. Pant University of Agriculture & Technology, India
 
 ## Internship Timeline 
 Start - September 14th to  December 7th, 2021
