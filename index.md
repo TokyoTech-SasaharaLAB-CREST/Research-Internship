@@ -21,43 +21,43 @@ Dr. Mark Whiting - Postdoc, University of Pennsylvania, USA
 
 ## Selected Research Interns 
 Shree Hari Boyalla, Eurecom, France
-
+<br>
 Naman Ahuja, International Institute of Information Technology (IIIT), Hyderabad, India
-
+<br>
 Neha Motlani, International Institute of Information Technology(IIIT), Hyderabad, India
-
+<br>
 Rashmika madushan, Sri Lanka Institute of Information Technology (SLIIT), Sri Lanka
-
+<br>
 Aisha Elbadrawy, Nile University, Eygypt
-
+<br>
 Sourav Karmakar,National Institute of Technology (NIT), Durgapur, India
-
+<br>
 Anshita Khandelwal, International Institute of Information Technology (IIIT), Hyderabad, India, India
-
+<br>
 Haseeb Ahmed, Lahore University of Management Sciences (LUMS), Pakistan
-
+<br>
 Piraveen Sivakumar, University of Moratuwa, Sri Lanka
-
+<br>
 Akanksha Singh, Indira Gandhi Delhi Technical University for Women, India
-
+<br>
 Saad Imran Rana, Lahore University of Management Sciences (LUMS), Pakistan
-
+<br>
 Soyabul Islam, Khulna University of Engineering & Technology, Bangladesh
-
+<br>
 Mukund Choudhary, International Institute of Information Technology (IIIT), Hyderabad, India
-
+<br>
 Amogh Desai, Dwarkadas J. Sanghvi College of Engineering, India
-
+<br>
 Dinithi Sandarekha, University of Moratuwa, Sri Lanka
-
+<br>
 Nuwan Abeynayake, University of Moratuwa, Sri Lanka
-
+<br>
 Aman Bahuguna, Chandigarh University, India
-
+<br>
 Homayoon Khadivi, Freelanace, Iran
-
+<br>
 Pallavi Thukral, G.B. Pant University of Agriculture & Technology, India
-
+<br>
 
 ## Internship Timeline 
 Start - September 14th to  December 7th, 2021
