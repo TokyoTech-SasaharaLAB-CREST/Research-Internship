@@ -32,7 +32,7 @@ Aisha Elbadrawy, Nile University, Eygypt
 <br>
 Sourav Karmakar,National Institute of Technology (NIT), Durgapur, India
 <br>
-Anshita Khandelwal, International Institute of Information Technology (IIIT), Hyderabad, India, India
+Anshita Khandelwal, International Institute of Information Technology (IIIT), Hyderabad, India
 <br>
 Haseeb Ahmed, Lahore University of Management Sciences (LUMS), Pakistan
 <br>
