@@ -4,7 +4,7 @@ layout: homepage
 
 ## Sasahara Lab Research Intership Program 
 
-Sasahara Lab's Research Intership program is a 12 weeks intense program with mix of hands on expereince to computational social science methods and conducting real worl research collaborating with diverse research scientists. 
+Sasahara Lab's Research Intership program is a 12 weeks intense program with mix of hands on expereince to computational social science methods and conducting real world research collaborating with diverse research scientists. 
 
 ## Core Team
 
