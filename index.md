@@ -28,7 +28,7 @@ Neha Motlani, International Institute of Information Technology(IIIT), Hyderabad
 <br>
 Rashmika madushan, Sri Lanka Institute of Information Technology (SLIIT), Sri Lanka
 <br>
-Aisha Elbadrawy, Nile University, Eygypt
+Aisha Elbadrawy, Nile University, Egypt
 <br>
 Sourav Karmakar,National Institute of Technology (NIT), Durgapur, India
 <br>
