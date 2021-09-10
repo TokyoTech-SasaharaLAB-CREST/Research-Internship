@@ -72,7 +72,7 @@ Certificate by the Lab
 <br>
 Recommendation letter 
 <br>
-Full paper submission to a key Social Comping conference - such as 
+Full paper submission to a key Social Computing conference - such as 
 - IC2S2 
 - NetSci
 - WWW
